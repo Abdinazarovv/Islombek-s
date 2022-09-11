@@ -475,25 +475,7 @@
                 }, "Home"), c.a.createElement("ul", null, c.a.createElement("li", null, c.a.createElement(m.b, {
                     className: "active",
                     to: "/home"
-                }, "Home")), c.a.createElement("li", null, c.a.createElement(m.b, {
-                    to: "/home2"
-                }, "Home-style-2")), c.a.createElement("li", null, c.a.createElement(m.b, {
-                    to: "/home3"
-                }, "Home-style-3")), c.a.createElement("li", null, c.a.createElement(m.b, {
-                    to: "/home4"
-                }, "Home-style-4")), c.a.createElement("li", null, c.a.createElement(m.b, {
-                    to: "/home5"
-                }, "Home-style-5")), c.a.createElement("li", null, c.a.createElement(m.b, {
-                    to: "/home6"
-                }, "Home-style-6")), c.a.createElement("li", null, c.a.createElement(m.b, {
-                    to: "/home7"
-                }, "Home-style-7")), c.a.createElement("li", null, c.a.createElement(m.b, {
-                    to: "/home8"
-                }, "Home-style-8")), c.a.createElement("li", null, c.a.createElement(m.b, {
-                    to: "/home9"
-                }, "Home-style-9")), c.a.createElement("li", null, c.a.createElement(m.b, {
-                    to: "/home10"
-                }, "Home-style-10")))), c.a.createElement("li", null, c.a.createElement(m.b, {
+                }, )))), c.a.createElement("li", null, c.a.createElement(m.b, {
                     to: "/about",
                     title: ""
                 }, "About")), c.a.createElement("li", null, c.a.createElement(m.b, {
