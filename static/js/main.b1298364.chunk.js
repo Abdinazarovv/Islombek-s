@@ -1493,7 +1493,7 @@
                     className: "get-number"
                 }, c.a.createElement(m.b, {
                     to: "/contact"
-                }, "+(888) 01234567")))), c.a.createElement("div", {
+                }, "+(998) 901202876")))), c.a.createElement("div", {
                     className: "clearfix"
                 })), c.a.createElement(I, null)))
             };
