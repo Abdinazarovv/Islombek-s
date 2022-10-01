@@ -257,7 +257,7 @@
                 }, c.a.createElement("li", null, c.a.createElement(s.a, {
                     href: "#scrool"
                 }, c.a.createElement("i", {
-                    className: "ti-arrow-up"
+                    className: "fa-solid fa-angle-up"
                 }))))))
             }),
             d = t(14),
@@ -472,10 +472,7 @@
                     className: "active",
                     to: "/home",
                     title: ""
-                }, "Home"), c.a.createElement("ul", null, c.a.createElement("li", null, c.a.createElement(m.b, {
-                    className: "active",
-                    to: "/home"
-                }, )))), c.a.createElement("li", null, c.a.createElement(m.b, {
+                }, "Home"), ), c.a.createElement("li", null, c.a.createElement(m.b, {
                     to: "/about",
                     title: ""
                 }, "About")), c.a.createElement("li", null, c.a.createElement(m.b, {
@@ -581,15 +578,15 @@
                 }, c.a.createElement("ul", null, c.a.createElement("li", null, c.a.createElement(m.b, {
                     to: "/"
                 }, c.a.createElement("i", {
-                    className: "fa fa-facebook"
+                    className: "fa-brands fa-facebook"
                 }))), c.a.createElement("li", null, c.a.createElement(m.b, {
                     to: "/"
                 }, c.a.createElement("i", {
-                    className: "fa fa-linkedin"
+                    className: "fa-brands fa-linkedin"
                 }))), c.a.createElement("li", null, c.a.createElement(m.b, {
                     to: "/"
                 }, c.a.createElement("i", {
-                    className: "fa fa-instagram"
+                    className: "fa-brands fa-instagram"
                 })))))))), c.a.createElement("div", {
                     className: "wpo-slide-right-img"
                 }, c.a.createElement("div", {
@@ -607,7 +604,7 @@
                     className: "exprience-wrap"
                 }, c.a.createElement("div", {
                     className: "exprience-b"
-                }, c.a.createElement("h2", null, "10"), c.a.createElement("div", {
+                }, c.a.createElement("h2", null, "11"), c.a.createElement("div", {
                     className: "exprience-s"
                 }, c.a.createElement("span", null, "Years"), c.a.createElement("span", null, "Education")))))
             },
@@ -970,20 +967,20 @@
                 }, c.a.createElement("ul", null, c.a.createElement("li", null, c.a.createElement(m.b, {
                     to: "/"
                 }, c.a.createElement("i", {
-                    className: "fa fa-facebook"
+                    className: "fa-brands fa-facebook",
                 }))), c.a.createElement("li", null, c.a.createElement(m.b, {
                     to: "/"
                 }, c.a.createElement("i", {
-                    className: "fa fa-twitter",
+                    className: "fa-brands fa-twitter",
                     "aria-hidden": "true"
                 }))), c.a.createElement("li", null, c.a.createElement(m.b, {
                     to: "/"
                 }, c.a.createElement("i", {
-                    className: "fa fa-instagram",
+                    className: "fa-brands fa-instagram",
                     "aria-hidden": "true"
                 }))))))))), c.a.createElement("div", {
                     className: "wpo-footer-bottom ".concat(e.Fbclass)
-                }, c.a.createElement("span", null, "\xa9 2020 Follio. All rights reserved")))
+                }, c.a.createElement("span", null, "\xa9 2022 Islombek. All rights reserved")))
             }),
             le = t(20),
             ce = t.n(le),
@@ -1094,7 +1091,7 @@
                     className: "col-lg-6"
                 }, c.a.createElement("div", {
                     className: "wpo-about-text"
-                }, c.a.createElement("h2", null, "I create products not just art"), c.a.createElement("p", null, "My name is John Smith. I am a web designer and developer.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. "), c.a.createElement(m.b, {
+                }, c.a.createElement("h2", null, "A Frontend Engineer. I Help Startups Launch And Grow Their Products"), c.a.createElement("p", null, "My name is Islombek. I am a student and web developer. I'm a front-end developer based in Tashkent, Uzbekistan. A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product. "), c.a.createElement(m.b, {
                     to: "/about",
                     className: "theme-btn"
                 }, "Lets Talk")))))
@@ -1157,13 +1154,13 @@
                     className: "grid"
                 }, c.a.createElement("div", null, c.a.createElement("h2", null, c.a.createElement("span", {
                     className: "odometer",
-                    "data-count": "75"
-                }, "75"), "%")), c.a.createElement("p", null, "Communication Skills")), c.a.createElement("div", {
+                    "data-count": "80"
+                }, "80"), "%")), c.a.createElement("p", null, "Communication Skills")), c.a.createElement("div", {
                     className: "grid"
                 }, c.a.createElement("div", null, c.a.createElement("h2", null, c.a.createElement("span", {
                     className: "odometer",
-                    "data-count": "90"
-                }, "90"), "%")), c.a.createElement("p", null, "Project Management")), c.a.createElement("div", {
+                    "data-count": "75"
+                }, "75"), "%")), c.a.createElement("p", null, "Project Management")), c.a.createElement("div", {
                     className: "grid"
                 }, c.a.createElement("div", null, c.a.createElement("h2", null, c.a.createElement("span", {
                     className: "odometer",
@@ -1182,8 +1179,8 @@
                     className: "grid"
                 }, c.a.createElement("div", null, c.a.createElement("h2", null, c.a.createElement("span", {
                     className: "odometer",
-                    "data-count": "82"
-                }, "82"), "%")), c.a.createElement("p", null, "Creativity"))))))
+                    "data-count": "60"
+                }, "60"), "%")), c.a.createElement("p", null, "Creativity"))))))
             },
             Ue = function() {
                 return c.a.createElement("div", {
