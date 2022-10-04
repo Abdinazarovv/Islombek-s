@@ -1194,7 +1194,7 @@
                 }, c.a.createElement("div", {
                     className: "wpo-social-icon"
                 }, c.a.createElement("i", {
-                    className: "fa fa-facebook"
+                    className: "fa-brands fa-facebook"
                 })), c.a.createElement("div", {
                     className: "wpo-social-text"
                 }, c.a.createElement("h2", null, "Facebook")))), c.a.createElement("div", {
@@ -1204,7 +1204,7 @@
                 }, c.a.createElement("div", {
                     className: "wpo-social-icon-2"
                 }, c.a.createElement("i", {
-                    className: "fa fa-instagram",
+                    className: "fa-brands fa-instagram",
                     "aria-hidden": "true"
                 })), c.a.createElement("div", {
                     className: "wpo-social-text"
@@ -1215,7 +1215,7 @@
                 }, c.a.createElement("div", {
                     className: "wpo-social-icon-3"
                 }, c.a.createElement("i", {
-                    className: "fa fa-twitter",
+                    className: "fa-brands fa-twitter",
                     "aria-hidden": "true"
                 })), c.a.createElement("div", {
                     className: "wpo-social-text"
@@ -1226,7 +1226,7 @@
                 }, c.a.createElement("div", {
                     className: "wpo-social-icon-4"
                 }, c.a.createElement("i", {
-                    className: "fa fa-dribbble",
+                    className: "fa-brands fa-dribbble",
                     "aria-hidden": "true"
                 })), c.a.createElement("div", {
                     className: "wpo-social-text"
@@ -1237,7 +1237,7 @@
                 }, c.a.createElement("div", {
                     className: "wpo-social-icon-5"
                 }, c.a.createElement("i", {
-                    className: "fa fa-linkedin",
+                    className: "fa-brands fa-linkedin",
                     "aria-hidden": "true"
                 })), c.a.createElement("div", {
                     className: "wpo-social-text"
@@ -1248,11 +1248,11 @@
                 }, c.a.createElement("div", {
                     className: "wpo-social-icon-6"
                 }, c.a.createElement("i", {
-                    className: "fa fa-behance",
+                    className: "fa-brands fa-telegram",
                     "aria-hidden": "true"
                 })), c.a.createElement("div", {
                     className: "wpo-social-text"
-                }, c.a.createElement("h2", null, "Behance"))))))
+                }, c.a.createElement("h2", null, "Telegram"))))))
             },
             Qe = (t(208), function() {
                 return c.a.createElement("div", {
