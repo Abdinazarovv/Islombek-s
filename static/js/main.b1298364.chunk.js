@@ -835,7 +835,7 @@
                     className: "wpo-contact-info"
                 }, c.a.createElement("div", {
                     className: "info-item"
-                }, c.a.createElement("h2", null, "25 North Street,Dubai"), c.a.createElement("div", {
+                }, c.a.createElement("h2", null, "Uzbekistan, Tashkent"), c.a.createElement("div", {
                     className: "info-wrap"
                 }, c.a.createElement("div", {
                     className: "info-icon"
@@ -846,7 +846,7 @@
                     className: "info-text"
                 }, c.a.createElement("span", null, "Office Address")))), c.a.createElement("div", {
                     className: "info-item"
-                }, c.a.createElement("h2", null, "info@edefytheme.com"), c.a.createElement("div", {
+                }, c.a.createElement("h2", null, "islombek@gmail.com"), c.a.createElement("div", {
                     className: "info-wrap"
                 }, c.a.createElement("div", {
                     className: "info-icon"
@@ -855,9 +855,9 @@
                     alt: ""
                 })), c.a.createElement("div", {
                     className: "info-text"
-                }, c.a.createElement("span", null, "Official Mail")))), c.a.createElement("div", {
+                }, c.a.createElement("span", null, "Personal Mail")))), c.a.createElement("div", {
                     className: "info-item"
-                }, c.a.createElement("h2", null, "+91 256-987-239"), c.a.createElement("div", {
+                }, c.a.createElement("h2", null, "+9998 90 120 28 76"), c.a.createElement("div", {
                     className: "info-wrap"
                 }, c.a.createElement("div", {
                     className: "info-icon"
